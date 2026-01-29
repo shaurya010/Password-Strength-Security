@@ -36,5 +36,3 @@ The cracking time estimate assumes a **uniform random password** and no dictiona
 
 ---
 
-## 🗂️ Project Structure
-
